@@ -9,7 +9,8 @@
     
 </head>
 <body>
-    
+<button type="button" class="btn btn-outline-success my-2 my-sm-0"><a class="nav-link" href="index.php">Back</a></button>
+
     <script src="node_modules/jquery/dist/jquery.min.js"></script>
     <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src="node_modules/popper.js/dist/umd/popper.min.js"></script>
