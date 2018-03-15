@@ -28,7 +28,7 @@
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          
+          Content
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="contributor.php">Contributor</a>
@@ -90,8 +90,10 @@
   </div>
   </div>
 <div class="container">
-  <p>This is some text.</p> 
-  <p>This is another text.</p> 
+  <p>ค่าความอร่อย</p> 
+  <div class="progress">
+    <div class="progress-bar" style="width:30%"></div>
+  </div> 
 </div>
 
     <script src="node_modules/jquery/dist/jquery.min.js"></script>
